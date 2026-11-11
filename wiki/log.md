@@ -10,3 +10,9 @@
 - 新增：programs/waterloo-mmath-cs.md；更新：index.md
 - 發現：同一官方頁 TOEFL 有兩種寫法（5 vs 93）→ 補 ETS 新制來源，放在「爭議 / 備註」
 - 自我檢查抓到：初稿有兩句不在 raw 裡的知識（TOEFL 新制、舊版手冊組別），違反 AGENTS.md §8 → 前者補 ETS 來源，後者刪除
+
+## [2026-11-11] ingest #2 | UBC MSc CS
+- raw：20261111-ubc-msc-cs
+- 新增：programs/ubc-msc-cs.md；更新：index.md
+- lint 第 1 次：✗ 孤兒頁（忘了加進 index）→ 補上 index 連結 → 通過
+- 自我檢查：初稿把「$」寫成「加幣」屬於推測 → 改回頁面原文
