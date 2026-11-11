@@ -47,7 +47,7 @@
 | Waterloo MMath CS | 3 封 | 興趣陳述 ≤ 500 字 | 不需要 | [S:20261111-waterloo-mmath-cs, 20261111-waterloo-cs-grad-faq] |
 | UBC MSc CS | 3 封 | — | 不需要 | [S:20261111-ubc-msc-cs] |
 | McGill MSc CS | — | 非論文組要回答 2 題短文 | 選交 | [S:20261111-mcgill-cs-deadlines-faq, 20261111-mcgill-msc-admission] |
-| Alberta MSc CS | 3 位 | 讀書計畫 ≤ 2 頁＋最多填 3 位教授 | 不強制，國外大學強烈建議 | [S:20261111-alberta-cs-grad-admissions] |
+| Alberta MSc CS | 3 位 | 讀書計畫 ≤ 2 頁＋最多填 3 位教授 | 不強制，在加拿大以外讀大學或 GPA 較低者強烈建議 | [S:20261111-alberta-cs-grad-admissions] |
 | SFU MSc CS | 3 封 | 讀書計畫 | — | [S:20261111-sfu-cs-grad-apply] |
 | Waterloo MMSc | 2 封 | 興趣陳述 1 頁＋學程問題 | — | [S:20261111-waterloo-mmsc, 20261111-waterloo-mse-dept-apply] |
 | Dalhousie MACS | — | —（要面試） | — | [S:20261111-dalhousie-macs] |
