@@ -9,6 +9,7 @@
 - [SFU MSc CS](programs/sfu-msc-cs.md) — 研究型、只收論文組、2027/1/19 截止；另有專業碩士
 - [Alberta MSc CS](programs/alberta-msc-cs.md) — 只剩論文組（修課型已停辦）、12/15 截止、要有教授願意收
 - [Dalhousie MACS](programs/dalhousie-macs.md) — 修課型專業碩士、16 個月、一年 3 梯、要面試
+- [Waterloo MMSc](programs/waterloo-mmsc.md) — 修課型、偏資管 / 分析、自費、2/1 截止
 
 ## 主題頁（topics/）
 （尚未建立）

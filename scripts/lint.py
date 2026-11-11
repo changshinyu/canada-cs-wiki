@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Wiki lint — AGENTS.md §7 的 1–6 項腳本檢查。
+"""Wiki lint — AGENTS.md §7 的 1–6、8 項腳本檢查。
 用法：python3 scripts/lint.py [--today YYYY-MM-DD]
 結束碼：0 = 沒有錯誤（可能有警告），1 = 有錯誤。
 """
@@ -9,6 +9,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 RAW, WIKI = ROOT / "raw", ROOT / "wiki"
 REQUIRED = ["概要", "截止日", "申請文件", "語言門檻", "學費", "研究方向", "特色課程", "爭議 / 備註"]
 CITE = re.compile(r"\[S:([^\]]+)\]")
+COMPARE = re.compile(r"((最低|最高|最晚|最早|最便宜|最貴)的|唯一|其他學校|其他學程|個學程(中|裡)|幾間|比 ?(Waterloo|UBC|McGill|SFU|Alberta|Dalhousie|MMSc) ?(高|低|早|晚))")
 LINK = re.compile(r"\[[^\]]*\]\(([^)#\s]+)(?:#[^)]*)?\)")
 
 def parse_raw():
@@ -80,6 +81,12 @@ def main():
                     # 2. 非官方要標
                     elif raw[stem].get("type") == "unofficial" and "（非官方）" not in line:
                         errors.append(f"[2 未標非官方] {rel}:{i}: 引用 {stem} 但沒寫（非官方）")
+        # 8. 學程頁禁止跨校比較（2026-11-11 加入）
+        if p.parent.name == "programs":
+            for i, line in enumerate(lines, 1):
+                m = COMPARE.search(line)
+                if m:
+                    errors.append(f"[8 跨校比較] {rel}:{i}: 「{m.group(0)}」— 比較請寫在 topics/")
         # 4. 學程頁固定欄位
         if p.parent.name == "programs":
             heads = {l[3:].strip() for l in lines if l.startswith("## ")}

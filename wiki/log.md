@@ -41,3 +41,12 @@
 - 新增：programs/dalhousie-macs.md；更新：index.md
 - 官方頁本身有錯置段落（介紹 MDI）與過期標題 → 寫進爭議 / 備註
 - 自我忠實度檢查：✗ 2 句跨學程比較（「7 個學程中最低」等）雖然有 [S:] 但 raw 沒寫，lint 抓不到 → 改成只陳述本校事實；跨校比較留給主題頁
+
+## [2026-11-11] ingest #7 | Waterloo MMSc
+- raw：20261111-waterloo-mmsc、20261111-waterloo-mse-dept-apply（皆官方）
+- 新增：programs/waterloo-mmsc.md；更新：index.md
+- lint 第 1 次：✗ 缺出處（「7 個學程裡唯一」跨校比較）、✗ 孤兒頁
+- **流程修改**：跨校比較第 4 次出現 → AGENTS.md §4 加「學程頁禁止跨校比較」；scripts/lint.py 加第 8 項自動抓比較用語（把檢查從「事後回頭看」往前移到「每篇 ingest 的 lint」）
+- 自我檢查：刪掉一句 raw 沒寫的推論（6/1 與線上 MMSc 相同）
+- 新檢查第 8 項第一版誤判 3 處「最低 GPA」（門檻不是比較）→ 規則改成只抓「最低的」等比較級 → 通過
+- 第二次誤判：McGill「學到最多的一次成就」→ 移除「最多的 / 最少的」
