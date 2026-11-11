@@ -15,7 +15,7 @@
 | 隔年 1 月入學 | 6 月 1 日 | [S:20261111-waterloo-mmath-cs] |
 | 隔年 5 月入學 | 10 月 1 日 | [S:20261111-waterloo-mmath-cs] |
 
-- 國際生與本地生同一個截止日；推薦信可以在截止日後 14 天內補交，其他文件要在截止日當天前交齊 [S:20261111-waterloo-cs-grad-faq]
+- 推薦信可以在截止日後 14 天內補交，其他文件要在截止日當天前交齊 [S:20261111-waterloo-cs-grad-faq]
 - 截止後約 8–16 週內公布結果 [S:20261111-waterloo-cs-grad-faq]
 
 ## 申請文件
@@ -23,16 +23,16 @@
 - 興趣陳述（statement of interest），上限 500 字 [S:20261111-waterloo-mmath-cs]
 - 成績單（transcripts）
 - 推薦信 3 封，至少 2 封來自學術推薦人 [S:20261111-waterloo-mmath-cs]
-- 補充資料表（Supplementary Information Form, SIF）
+- 補充資料表（Supplementary Information Form, SIF）：只在搜尋引擎摘要出現，抓下來的頁面正文沒有，待確認 [S:20261111-waterloo-mmath-cs]
 - 英文能力證明（如適用）
 - **不需要 GRE** [S:20261111-waterloo-cs-grad-faq]
 - 學歷門檻：電腦科學或工程學士，成績至少 78% [S:20261111-waterloo-mmath-cs]
-- 預期背景：程式語言、資料結構、作業系統、演算法、計算機組織；背景不足可能要補修課 [S:20261111-waterloo-cs-grad-faq]
+- 預期背景：程式語言、資料結構、作業系統、演算法、計算機組織 [S:20261111-waterloo-cs-grad-faq]
 
 ## 語言門檻
 - IELTS 總分 6.5（寫作 6.0、口說 6.5） [S:20261111-waterloo-mmath-cs]
 - TOEFL：見下方「爭議 / 備註」
-- 分數略低於門檻但其他條件很強時，有時會發有條件錄取（conditional offer） [S:20261111-waterloo-cs-grad-faq]
+- 語言分數略低於門檻時，有時會發有條件錄取（conditional offer） [S:20261111-waterloo-cs-grad-faq]
 
 ## 學費
 - 學程頁沒有列金額，要到 Waterloo 財務處的研究所學費頁查詢（官網未載明於本頁）

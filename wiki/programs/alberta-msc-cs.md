@@ -21,7 +21,7 @@
 - GPA：最低大約 3.0，但**錄取者常在 3.5 以上**，用最後兩年（最後 60 學分）換算成 4.0 制 [S:20261111-alberta-cs-grad-admissions]
 - 推薦人 3 位，最好有 2 位是學術推薦人 [S:20261111-alberta-cs-grad-admissions]
 - 讀書計畫（statement of purpose）上限 2 頁、履歷、成績單 PDF [S:20261111-alberta-cs-grad-admissions]
-- GRE 不強制，但**在加拿大以外讀大學的人強烈建議考**；如果要交，建議 Quantitative 155 以上、Analytical Writing 4.0 以上 [S:20261111-alberta-cs-grad-admissions]
+- GRE 不強制，但**在加拿大以外讀大學、或 GPA 較低的人強烈建議考**；如果要交，建議 Quantitative 155 以上、Analytical Writing 4.0 以上 [S:20261111-alberta-cs-grad-admissions]
 - 申請費 135 加幣，不退費 [S:20261111-alberta-cs-grad-admissions]
 
 ## 語言門檻
@@ -45,4 +45,3 @@
 
 ## 爭議 / 備註
 - **修課型是否還有開？** 第三方網站還寫著「論文組和修課組都有」，修課組 30 學分含 6 學分畢業專題（非官方）[S:20261111-alberta-thirdparty-listing]；但**官方頁面寫明 2021 年 7 月起停辦** [S:20261111-alberta-cs-grad-admissions]。**以官方為準：只有論文組。**
-- 需求訪談時，AI 憑印象說 Alberta「course-based 和 thesis-based 都有」，這是過期的資訊，已由本次 ingest 的官方頁更正 [S:20261111-alberta-cs-grad-admissions]

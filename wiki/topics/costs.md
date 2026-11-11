@@ -18,10 +18,10 @@
 | UBC MSc CS | 第一年國際生 10,081.65（頁面沒寫幣別與期數） | [S:20261111-ubc-msc-cs] |
 | Dalhousie MACS | 學程費每學期繳、以 12 個月計；國際生最多繳 2 年，頁面沒寫金額 | [S:20261111-dalhousie-macs] |
 | Alberta MSc CS | 申請費 135 加幣 | [S:20261111-alberta-cs-grad-admissions] |
-| 其他 | 頁面都指向財務處學費頁，沒有寫金額 | [S:20261111-waterloo-mmath-cs, 20261111-waterloo-mmsc] |
+| Waterloo 兩個學程 | 頁面指向財務處學費頁，沒有寫金額；其他校官網未載明 | [S:20261111-waterloo-mmath-cs, 20261111-waterloo-mmsc] |
 
 ## 給讀者的重點
-- **研究型通常有資助（RA / TA），修課型通常自費**：UBC 研究型有保證資助、Waterloo MMSc 寫明自費，是這次資料裡最清楚的對比 [S:20261111-ubc-msc-cs, 20261111-waterloo-mmsc]
+- 這次資料中最清楚的對比：**UBC 研究型有保證資助、Waterloo MMSc 修課型寫明自費**（但修課型的 Dalhousie 也有學院獎，不能一概而論） [S:20261111-ubc-msc-cs, 20261111-waterloo-mmsc]
 - 想精算總花費（學費＋生活費），**一定要另外查各校財務處的學費頁**，學程頁不夠
 
 ## 爭議 / 備註

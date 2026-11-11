@@ -3,7 +3,7 @@
 > 主題頁可以做跨校比較；每一校的數字都要引用該校的 raw。
 
 ## PGWP 是什麼
-- 畢業後工作許可（Post-Graduation Work Permit, PGWP）是**開放式工作許可**，不需要先有 job offer，可以替任何雇主工作 [S:20261111-ircc-pgwp]
+- 畢業後工作許可（Post-Graduation Work Permit, PGWP）是**開放式工作許可（open work permit）** [S:20261111-ircc-pgwp]
 - 一生只能拿一次 [S:20261111-ircc-pgwp]
 - 要在畢業後 **180 天內**申請；就學期間每學期都要維持全職身分（最後一學期除外） [S:20261111-ircc-pgwp]
 
@@ -18,7 +18,7 @@
 - ⚠️ 學校入學用的是 IELTS **Academic**；IRCC 這張表列的是 **General Training**。兩者是不同的考試，**PGWP 能不能用 Academic 成績，要再查 IRCC 的完整列表**（這次 ingest 的頁面沒有寫）
 
 ## 配偶工作許可
-- 2025 年 1 月 21 日起，就讀 **16 個月以上的碩士**，配偶才有資格申請開放式工作許可 [S:20261111-ircc-pgwp]
+- 2025 年 1 月 21 日起，就讀 **16 個月以上的碩士**（或博士、部分專業學位）時，配偶**可能**有資格申請開放式工作許可 [S:20261111-ircc-pgwp]
 
 ## 7 個學程的修業長度（對照 PGWP 規定）
 | 學程 | 官方寫的長度 | 是碩士學位？ | 出處 |
@@ -31,7 +31,7 @@
 | [Alberta MSc CS](../programs/alberta-msc-cs.md) | 這次 ingest 的頁面沒寫 | 是 | — |
 | [Dalhousie MACS](../programs/dalhousie-macs.md) | 16 個月以上 | 是 | [S:20261111-dalhousie-macs] |
 
-- 7 個都是碩士學位、而且都超過 8 個月 → 依 2024/2/15 的規定都符合「碩士可申請 3 年 PGWP」的長度條件 [S:20261111-ircc-pgwp]（其他條件如語言 CLB 7、全職身分仍要符合）
+- 長度條件（學程至少 8 個月）：官方寫明長度的 Waterloo MMath（24 個月）、MMSc（16 個月）、Dalhousie（16 個月以上）符合 [S:20261111-ircc-pgwp, 20261111-waterloo-mmath-cs, 20261111-waterloo-mmsc, 20261111-dalhousie-macs]；UBC、SFU 要換算或確認，McGill、Alberta 官網未載明。另外仍要符合語言 CLB 7、全職身分等其他條件
 - 配偶工作許可的 16 個月門檻：官方寫明長度的 Waterloo MMath（24 個月）、Waterloo MMSc（16 個月）、Dalhousie（16 個月以上）符合 [S:20261111-ircc-pgwp, 20261111-waterloo-mmsc, 20261111-dalhousie-macs, 20261111-waterloo-mmath-cs]；其他學程官方沒寫月數，要再確認
 
 ## 之後怎麼移民（Express Entry）
