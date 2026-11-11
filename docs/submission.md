@@ -30,13 +30,13 @@
 
 ## 2. LLM Wiki 連結
 
-- Wiki 目錄：`https://<你的帳號>.github.io/<repo>/wiki/index.html`
-- GitHub repo：`https://github.com/<你的帳號>/<repo>`（可以看到 `raw/`、`AGENTS.md`、`wiki/log.md`，以及完整的 commit 歷史）
+- Wiki 目錄：`https://changshinyu.github.io/canada-cs-wiki/wiki/index.html`
+- GitHub repo：`https://github.com/changshinyu/canada-cs-wiki`（可以看到 `raw/`、`AGENTS.md`、`wiki/log.md`，以及完整的 commit 歷史）
 
 ## 3. 教學 HTML 簡報連結
 
-- 簡報：`https://<你的帳號>.github.io/<repo>/slides/deck.html`（用方向鍵翻頁）
-- 入口頁：`https://<你的帳號>.github.io/<repo>/`
+- 簡報：`https://changshinyu.github.io/canada-cs-wiki/slides/deck.html`（用方向鍵翻頁）
+- 入口頁：`https://changshinyu.github.io/canada-cs-wiki/`
 
 **簡報的教學結構**（13 頁）：
 1. 引起動機：封面、要回答的 4 個問題
