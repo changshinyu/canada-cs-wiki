@@ -35,3 +35,9 @@
 - 新增：programs/alberta-msc-cs.md；更新：index.md
 - **重要更正**：訪談 Q3 說 Alberta 有 course-based，官方寫明 2021/7 起停辦 → 依官方，並在備註記錄更正
 - lint 第 1 次：✗ 缺出處（更正說明那行含題號數字）→ 改寫並接上官方出處 → 通過
+
+## [2026-11-11] ingest #6 | Dalhousie MACS
+- raw：20261111-dalhousie-macs、20261111-dalhousie-macs-admission-process（皆官方）
+- 新增：programs/dalhousie-macs.md；更新：index.md
+- 官方頁本身有錯置段落（介紹 MDI）與過期標題 → 寫進爭議 / 備註
+- 自我忠實度檢查：✗ 2 句跨學程比較（「7 個學程中最低」等）雖然有 [S:] 但 raw 沒寫，lint 抓不到 → 改成只陳述本校事實；跨校比較留給主題頁
