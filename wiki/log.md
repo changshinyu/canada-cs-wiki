@@ -23,3 +23,9 @@
 - 發現矛盾 2 處（截止日新舊網址、TOEFL 分項）→ 依 AGENTS.md §4 以現行官方頁為準，寫進「爭議 / 備註」
 - 本頁學費、研究方向、課程官網未載明 → 標「官網未載明於本頁」，不自行補
 - lint 第 1 次：✗ 缺出處（一句跨學程的綜合比較寫在學程頁、沒有出處）→ 刪除，比較留給主題頁 → 通過
+
+## [2026-11-11] ingest #4 | SFU MSc Computing Science
+- raw：20261111-sfu-cs-grad-apply、20261111-sfu-msc-calendar（官方）、20261111-sfu-english-thirdparty（非官方，第一篇）
+- 新增：programs/sfu-msc-cs.md；更新：index.md
+- 官方頁沒有語言門檻 → 第三方分數標（非官方），放進爭議 / 備註，列為待補
+- 一個官方網址（computing/.../admissions.html）WebFetch 只拿到導覽頁 → 改抓 FAS 申請頁
