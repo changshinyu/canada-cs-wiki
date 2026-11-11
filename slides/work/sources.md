@@ -9,6 +9,7 @@
 | 要準備什麼、何時截止？ | `wiki/topics/requirements.md` |
 | 要花多少錢？ | `wiki/topics/costs.md` |
 | 畢業後能留下來工作嗎？ | `wiki/topics/pgwp-immigration.md` |
+| UBC 屬於哪一型？（審查第 1 輪後補檢索） | `wiki/programs/ubc-msc-cs.md` |
 | 有什麼容易踩的坑？（具體例子） | `wiki/programs/alberta-msc-cs.md`、`wiki/programs/mcgill-msc-cs.md`、`wiki/programs/waterloo-mmath-cs.md` |
 
 不使用：wiki/log.md（流程紀錄，不是知識）
