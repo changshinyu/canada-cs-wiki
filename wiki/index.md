@@ -12,4 +12,7 @@
 - [Waterloo MMSc](programs/waterloo-mmsc.md) — 修課型、偏資管 / 分析、自費、2/1 截止
 
 ## 主題頁（topics/）
+- [申請條件總覽](topics/requirements.md) — 7 學程的截止日、語言、學歷、文件比較表
+- [費用與資助](topics/costs.md) — 研究型有資助、修課型自費；學費資料待補
+- [修課型 vs 研究型](topics/course-vs-thesis.md) — 兩種碩士差異、7 學程分類
 - [PGWP 與移民](topics/pgwp-immigration.md) — 碩士可拿 3 年工作簽、CLB 7、7 學程修業長度對照
