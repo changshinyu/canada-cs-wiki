@@ -29,3 +29,9 @@
 - 新增：programs/sfu-msc-cs.md；更新：index.md
 - 官方頁沒有語言門檻 → 第三方分數標（非官方），放進爭議 / 備註，列為待補
 - 一個官方網址（computing/.../admissions.html）WebFetch 只拿到導覽頁 → 改抓 FAS 申請頁
+
+## [2026-11-11] ingest #5 | Alberta MSc Computing Science
+- raw：20261111-alberta-cs-grad-admissions（官方）、20261111-alberta-thirdparty-listing（非官方）
+- 新增：programs/alberta-msc-cs.md；更新：index.md
+- **重要更正**：訪談 Q3 說 Alberta 有 course-based，官方寫明 2021/7 起停辦 → 依官方，並在備註記錄更正
+- lint 第 1 次：✗ 缺出處（更正說明那行含題號數字）→ 改寫並接上官方出處 → 通過

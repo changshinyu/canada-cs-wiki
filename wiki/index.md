@@ -7,6 +7,7 @@
 - [UBC MSc CS](programs/ubc-msc-cs.md) — 研究型、有保證資助、12/15 截止、IELTS 7.0
 - [McGill MSc CS](programs/mcgill-msc-cs.md) — 論文組 / 非論文組、12/15 截止、背景課程要求很具體
 - [SFU MSc CS](programs/sfu-msc-cs.md) — 研究型、只收論文組、2027/1/19 截止；另有專業碩士
+- [Alberta MSc CS](programs/alberta-msc-cs.md) — 只剩論文組（修課型已停辦）、12/15 截止、要有教授願意收
 
 ## 主題頁（topics/）
 （尚未建立）
