@@ -3,7 +3,7 @@
 生成式 AI 第 10 週作業：先用「先討論、後生成」建立 LLM Wiki，再用事先畫好的 graph 把 Wiki 做成教學 HTML 簡報。
 
 - **入口頁**：https://changshinyu.github.io/canada-cs-wiki/
-- **簡報**：https://changshinyu.github.io/canada-cs-wiki/slides/deck.html（方向鍵翻頁）
+- **簡報**：https://changshinyu.github.io/canada-cs-wiki/slides/deck.html
 - **Wiki**：https://changshinyu.github.io/canada-cs-wiki/wiki/index.html
 - **作業說明**（graph 設計、執行紀錄、反思）：`docs/submission.md`
 
