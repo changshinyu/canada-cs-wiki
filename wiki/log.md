@@ -16,3 +16,10 @@
 - 新增：programs/ubc-msc-cs.md；更新：index.md
 - lint 第 1 次：✗ 孤兒頁（忘了加進 index）→ 補上 index 連結 → 通過
 - 自我檢查：初稿把「$」寫成「加幣」屬於推測 → 改回頁面原文
+
+## [2026-11-11] ingest #3 | McGill MSc CS
+- raw：20261111-mcgill-msc-admission、20261111-mcgill-cs-deadlines-faq
+- 新增：programs/mcgill-msc-cs.md；更新：index.md
+- 發現矛盾 2 處（截止日新舊網址、TOEFL 分項）→ 依 AGENTS.md §4 以現行官方頁為準，寫進「爭議 / 備註」
+- 本頁學費、研究方向、課程官網未載明 → 標「官網未載明於本頁」，不自行補
+- lint 第 1 次：✗ 缺出處（一句跨學程的綜合比較寫在學程頁、沒有出處）→ 刪除，比較留給主題頁 → 通過
